@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>visitsrilanka.articles.mountains</title>
+    <link rel="stylesheet" href="colom.css">
+    <link rel="stylesheet" href="hash1.css">
+    <script src="https://kit.fontawesome.com/b2e1bca07e.js" crossorigin="anonymous"></script>
+    <script src="create.js" type="text/javascript"></script>
+</head>
+<body onload="loadtexttwo(); getLocation1();">
+    <div class="row">
+        <div class="col-1" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:30px;">
+          <div><img src="images/FB_IMG_16045547214037237.jpg" class="bgimage"></div>
+           <div class="bgcolor"></div>
+           <div class="box">
+                <img src="images/Village life (2).png" class="headimg">
+           </div>
+             <div class="box1">
+               <blockquote>"your target may be so hard to fulfill.but it can be gained your happiness by completing your target."</blockquote>
+             </div>
+        </div>
+       <div class="col-2" style="font-family:'proxima-nova',sans-serif;font-size:30px;text-align:left;">
+          <div>
+                <div class="s1">
+                <div style="padding-top:30px;padding-left:30px;">
+                 <button type="submit" value="submit" onclick="myFunction()" class="submit" id="button"><img src="images/15211315791553239378-512.png" class="imge"></button>
+               </div>
+               <div id="heading1"></div>
+               <div id="clz" class="side" style="position: fixed;top:0px;">
+                <div>
+                    <ol class="list" style="list-style-type: none;padding-left:30px;">
+                       <li><button value="button" class="btn" onclick="myFunction1()"><img src="images/close.png"></button></li>
+                       <br>
+                       <li><a href="index.php">Home</a></li>
+                       <li><a href="articles.php">articles</a></li>
+                       <li><a href="about us.html">about us</a></li>
+                       <li><a href="contact us.html">Contact us</a></li>
+                    </ol>
+                </div>
+              </div>
+              <div class="centerimg">
+                <img src="images/Village life (2).png" class="headimg">
+              </div>
+                <div class="search">
+                  <form class="example" method="POST" action="home.php" enctype="multipart/form-data" target="_blank" style="padding-left:100px;padding-top:40px;">
+                  <input type="search" placeholder="search" name="search1" list="browsers" autocomplete="off" class="border" id="search1" >
+                   <datalist id="browsers" class="scroll">
+                     <option value="Home">
+                     <option value="Contact me">
+                  </datalist>
+                  <button type="submit" value="submit" name="submit-name"><img class="img1" src="images/search.png"></button>
+                </form>
+                </div>
+                </div>
+                </div>
+               </div>
+        <div class="col-3" >
+            <div class="template" style="margin-top:100px;">
+                <div class="temp">
+              <h1 style="font-weight:bold;">Did you know?</h1>
+              <ul style="text-align: left;font-family:Georgia, 'Times New Roman', Times, serif;font-size:20px;line-height:30px;">
+                <li>makandawa reserve is the oldest reserve in sri lanka.</li>
+              </ul>
+               </div>
+              </div> 
+        </div>
+        <div class="col-4" style="font-family:'Garamond';font-size:30px;">
+            <div class="main">
+              <div class="sociallink">
+                <a href=""><i class="fab fa-facebook" id="fb"></i></a><br>
+                <a href=""><i class="fab fa-instagram" id="insta"></i></a><br>
+                <a href=""><i class="fa fa-youtube-play" id="yt"></i></a><br>
+             </div>
+                <div style="padding: 50px;margin-right: 5%;">
+                 <h1 style="margin-bottom:30px;">15 mountains you would be hard to hike in sri lanka.</h1>
+                 <hr style="width:100%;margin-bottom:30px;">
+                 <div id="loadtext"></div>
+             </div>  
+            </div>
+        </div>
+        <div class="col-5">
+            <div class="template" style="margin-top:100px;">
+                <div class="temp">
+              <h1 style="font-weight:bold;">What's New....</h1>
+              <ol style="list-style-type:circle;">
+                <li><a href="cities.html">10 cities you could get a better experience about city culture of ceylon</a></li>
+                <li><a href="places.html">10 places you could see an amazing view</a></li>
+                <li><a href="mountains.html">15 mountains you would be hard to hike in sri lanka.</a></li>
+                <li><a href="waterfalls.html">20 magnificent waterfalls you may enjoy</a></li>
+               </ol>
+              </div>
+              </div>
+        </div>
+        <div class="col-6" style="font-family:'gill sans';">
+            <div>
+           <div class="position1">
+                <fieldset onmousemove="enter()" onmouseout="remove()">
+                <legend>here are feedbacks</legend>
+                 <form action="form.php" method="POST" enctype="multipart/form-data" class="example1" onsubmit="checkcookie()" >
+                  <input type="subject" name="name" placeholder="Name" cols="10" id="name"><br><br>
+                  <input type="email" name="email" placeholder="E-mail" cols="10"><br><br>
+                  <textarea name="textmsg" placeholder="what do you think?" style="height:100px;"></textarea><br><br>
+                  <button type="submit" value="SUBMIT" name="submit_form">SEND</button><br><br>
+                 </form>
+                </fieldset>  
+                </div>
+                 <div class="fullcolor">
+                   <div class="includep">
+                     <p id="include"></p>
+                    </div>
+                </div>
+                 </div>
+                 </div>
+        <div class="col-7" style="z-index:1;">
+            <div class="template" style="padding:30px 30px;margin-top:30px;">
+                <p>contact me if you want.</p>
+             </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<article>
+                  <h2>ambuluwawa</h2>
+            
+                <p>situated 3650 m above the sea level,the ambuluwawa tower gives a breathtaking view of the area.this site is home to not only a temple,but also a mosque,church and a kovil making 
+                    it a place of religious value for all faiths.ambuluwawa temple is a unique and amazing place situated in gampola,sri lanka.if you like hiking and if you are fit,you can walk
+                    up to the top.it is a wonderful experience for sure.the sights along the way are really beautiful.</p>
+                </article>
+                <article>
+                <h2>nine arch bridge</h2>
+                
+                <p>also called the bridge in the sky,is a viaduct bridge in sri lanka.it is one of the best examples of colonial-era railway construction in the country.it is located in demodara,between
+                    ella and demodara railway stations.the surrounding area has seen a steady increase of tourism due to the bridge's architectural ingenuity and the profuse greenery in the nearby hillsides.</p>
+                </article>
+                <article>
+                <h2>nuwaraeliya botanical garden</h2>
+                
+                <p>the garden was established in 1861,under george henry kendrick thwaites as an experimental cultivation of cinchona,a commercial crop thriving at the time.there are over 10,000 species of flora planted here
+                    and during the spring season in nuwaraeliya.thousands of visitors come to see the blooms here.number of annual visitors are around 500,000.the garden is famous for number of species of orchids
+                    and roses are planted there.</p>
+                </article>
+                <article>
+                
+                <h2>kitulgala</h2>
+                
+                <p>kitulgala is a small town in the west of sri lanka.it is in the wet zone vain forest and is one of the wettest places in the country.kitulgala tourist zone is a popular destination
+                    for adventure activities such as white water rafting,jungle trekking,confidence jump among many tourists.and you can also visit waterfalls,natural swimming pools etc.makandawa reserve is a 
+                    destination that can be reached by ferry from the kelani river at a distance of about 500 m from the hatton road near kitulgala town.hikers can also enjoy a good view in ascending the ahaslen mountain
+                    located in the reserve.</p>
+                </article>
+                <article>
+                <h2>sigiriya</h2>
+                
+                <p>known as the 8<sup>th</sup> wonder of the world,sigiriya is located in the matale district of sri lanka.sigiriya is a best-preserved ancient rock fortress and one of the archelogical treasure in south asia.
+                    it's a masterpiece of ancient urban planning/landscape and architecture/constraction technology/exceptional hydraulic engineering and management/ancient fine art with unique harmony between nature and human
+                    imagination.and also sigiriya is declared this site as a world heritage by UNESCO.</p>
+                </article>
+                <article>
+                <h2>madolsima</h2>
+                
+                <p>there are at least 4 other popular view points on the mountains of central sri lanka with deep preipitious edges known as mini world's ends.the madolsima world's end is located at the end of the lush roeberry 
+                    estate tea plantation.the elevation of the madolsima mountain is 1257 feet and is 2300-3400 above sea level.</p>
+                </article>
+                <article>
+                <h2>meemure</h2>
+                
+                <p>meemure is the nearest village to the lakegala mountain which is situated in one of the corners of kunuckles mountain range.it is one of hardest and a dream hike to all the hikers aut there.various natural water
+                    pools venues are located in thee village of meemure.</p>
+                </article>
+                <article>
+                <h2>pinnawala elephant orphanage</h2>
+                
+                <p>pinnawala elephant orphanage,is an orphanage,nursery and captive breeding ground for wild asian elephants located at pinnawala village,13 km northeast of kegalle town in sabaragamuwa province of sri lanka.pinnawala 
+                    has the largest herd of captive elephants in the world.</p>
+                </article>
+                <article>
+                
+                <h2>yapahuwa</h2>
+                
+                <p>yapahuwa served as the capital of sri lanka in the latter part of the 13<sup>th</sup> century.the first thing we heard about yapahuwa is that general suba built a fort for the security of the area during the unethical rule of
+                    kalinga maagha in the early 13<sup>th</sup> century.and also yapahuwa fort is only second to sigirya as the importance of being a security fort.scientific factors across the old age
+                    about the yapahuwa ancient and suburbs run to the historic season of prague.</p>
+                </article>
+                <article>
+                
+                <h2>horton plains national park</h2>
+                
+                <p>horton plains national park is a national park in the central highlands of sri lanka.it is located at an elevation of 2100-2300 m and encompasses montane grassland and cloud forest.it is rich in biodiversity and many species
+                    found here are endemic to the region.the horton plains are the headwaters of three major sri lankan rivers the mahaweli,kelani and walawe.large herds of srilankan sambar deer feature as typical mammals and the park is also
+                    an important bird area with many species not only endemic to sri lanka but restricted to the horton plains.the sheer precipice of world's end and baker's falls are among the tourist attractions of the park.</p>
+                </article>

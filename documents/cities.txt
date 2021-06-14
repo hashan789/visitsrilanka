@@ -1,0 +1,81 @@
+<article>
+                  <h2>kandy</h2>
+            
+                <p>kandy is the capital of the central province of sri lanka and is located in the kandy district.it was the last capital of the ancient king's era of srilanka.
+                    kandy is both an administrative and religious city.it was declared a world heritage site by UNESCO in 1988.the city of kandy,which has a cool climate, is a popular 
+                    destination for both local and foreign tourists and buddhists alike.temple of the tooth,bhairavakanda temple,kandy lake are some such places.the kandy lake and the temple 
+                    of the tooth bring a unique uniqueness to the city of kandy.</p>
+                </article>
+                <article>
+                <h2>galle</h2>
+                
+                <p>the city of galle in sri lanka is located in the galle district.galle is the best example of a fortified city built by the Portuguese architectural styles and native
+                    traditions.galle city,which is a world heritage site and has a warm climate,is home to several tourist attractions such as galle fort,galle harbor and rumassala.here,
+                    the main tourist attraction of galle,galle fort is the largest remaining fortress in asia built by European occupiers.the city was extensively fortified by the dutch 
+                    during the 17<sup>th</sup> century from 1649 onwards.and also,the galle international cricket stadium is located here and is popular among cricket fans all over the world.</p>
+                </article>
+                <article>
+                <h2>trincomalee</h2>
+                
+                <p>trincomlee is a port city on the northeast coast of sri lanka.set on a peninsula,fort frederick was built by the protuguese in the 17<sup>th</sup> century.nearby gokanna
+                    temple has panoramic views over the city and coastline.trincomalee is the capital city of the eastern province of sri lanka and is home to the popular trincomalee natural
+                    harbor,a popular tourist destination.here you can see many famous places such as thirukoneshwaram kovil,uppuveli beach,kinniya hot springs etc.</p>
+                </article>
+                <article>
+                
+                <h2>anuradhapura</h2>
+                
+                <p>anuradhapura is the capital city of north central province,sri lanka.anuradhapura is one of the ancient capitals of sri lanka,famous for its well-preserved ruins of an 
+                    ancient sinhala civilization.the size of anuradhapura city is 36km<sup>2</sup>.declared a world heritage site,anuradhapura is one of the most revered buddhist temples in sri lanka.
+                    you can also see many amazing creations such as kuttam pokuna,samadhi statue,ranmasu uyana,magul uyana etc.</p>
+                </article>
+                <article>
+                <h2>jaffna</h2>
+                
+                <p>jaffna is a city on the nothern tip of srilanka and the capital city of the north province.nallur kandaswamy is a huge hindu temple with golden arches and an ornate gopuram 
+                  tower.by the coast,star-shaped jaffna fort was built by the Portuguese in the 17<sup>th</sup> century and later occupied by the dutch and british.jaffna public library 
+                  is a symbol of the city's post-war regeneration.and kadurugoda viharaya,an ancient buddhist temple is a most impressive buddhists site of kandarodei.</p>
+                </article>
+                <article>
+                <h2>tangalle</h2>
+                
+                <p>tangalle is a large town in hambantota district,southern province,sri lanka.it is one of the largest towns in southern province.it has a mild climate,in comparison to the
+                    rest of the district and sandy beaches.the mulkirigala raja maha vihara is located 20km(12 mi)north of the town.the parewella natural swimming area is located 0.9km(0.56 mi)
+                    from tangalle town center.hummanay blowhole,is located 11.2 km(7 mi) north of the town in the fishing village of kudawella.it is the only blowhole in sri lanka.turtle watch rekawa 
+                    is located 10 km(6.2 mi) east of the town.at the beach,you can see five species of marine turtles.that if are green turtles,loggerhead turtles,leatherback turtles,olive ridely turtles
+                    amd hawksbill turtles.</p>
+                </article>
+                <article>
+                <h2>nuwaraeliya</h2>
+                
+                <p>nuwaraeliya is a city in the hill country of the central province,sri lanka.the city is the administractive capital of nuwaraeliya district.the city is overlokked by pidurutalagala,the tallest
+                    mountain in srl lanka.the town's attractions include the golf course,trout streams,victoria park and boating ar fishing on lake gregory.the city is a base for visits to horton plains
+                    national park.'lovers leap' is a spectacular waterfall set among tea plantation and can be reached by a short walk from the town of nuwaraeliya.it is found on the way to badulla from nuwaraeliya befora reaching 
+                    the hakgala botanical garden.the area of urban city is about 13 km<sup>2</sup>(5 sq mi).and it is the second largest garden in sri lanka.</p>
+                </article>
+                <article>
+                <h2>colombo</h2>
+                
+                <p>colombo is the commercial capital and largest city of srilanka by population.it is the financial centre of the island and a tourist destination.galle face is located in the heart
+                    of the city along the indian ocean coast.and also the viharamahadevi park is an urban park located next to the national museum of colombo and the town hall and is the oldest
+                    and largest park in colombo.lotus tower,also referred to as colombo lotus tower,is a tower of 356 m, located in colombo,sri lanka and also the tower is currently thr tallest 
+                    self-supported structure in south asia.the lotus-shaped tower is used for communication,observation and other leisure facilties.</p>
+                </article>
+                <article>
+                
+                <h2>dambulla</h2>
+                
+                <p>dambulla is a town situated in the north of matale district,central province of sri lanka.the area of the town is about 444 km<sup>2</sup>.more attractions of the area 
+                    include the largest and best preserved cave temple complex of sri lanka which is known as dambulla cave temple,sigiriya rock fortress located in the division and the rangiri
+                    dambulla International stadium.the area also boasts the largest rose quartz mountain range in south asia, and the iron wood forest ion na uyana aranya.</p>
+                </article>
+                <article>
+                
+               <h2>batticaloa</h2>
+                
+                <p>batticaloa is a major city in the eastern province,sri lanka,and its former capital.batticaloa has a tropical wet and dry climate.pasikudah is popular tourist destinations situated
+                  northwest with beaches and flat year-round warm-water shallow-lagoons. batticaloa district has three lagoons such as batticaloa lagoon,valaichchenai lagoon,and vakari lagoon.
+                  and also lady manning bridge located at kallady,which is the main access path to the city from the southern places of the district.this bridge is also famous for singing fishes
+                  which were considered as musical sounds heard in the kallady lagoon on a full moon day.in addition to, the batticaloa fort,which gives a beautiful attraction throughout the city 
+                  was built by the portuguese in 1628.this fort has a structure of four basitions and a canal on the other two sides. </p>
+                </article>

@@ -1,0 +1,117 @@
+ <article>
+                  <h2>kabaragala</h2>
+            
+                <p>kabaragala mountain is located near nawalapitiya town in kandy district.the height of this
+                mountain is about 1506 m above sea level.it can be gone to the mountain on nawalapitiya-ginigathhena road 
+                or nawalapitiya-dolosbage road.and also if you come from bulathkohupitiya,you could come 
+                to meriwila junction through dedugala across dolosbage.but even if that road is very difficult to go,
+                you could come across many beautiful waterfalls.</p>
+                </article>
+                <article>
+                <h2>peacockhill</h2>
+                
+                <p>this mountain is located in kotmale and the height of that is about 1528 feet above sea level.
+                on the left you can see pussellawa town,nawalantenna and perattasi,ragala mountains above it.
+                in addition to that,while hiking this mountain,you can see ramboda,garadi and poona falls.</p>
+                </article>
+                <article>
+                <h2>nuwaragala</h2>
+                
+                <p>nuwaragala can be reached across the rambaken oya valley through the pollebedda aboriginal village 
+                in the ampara district.in this place crowded with rocks,there are many caves made of stone.in addition to the ruins of the old city,
+                you can see a very beautiful pond on the top of the rock.the length and width of this pond are respectively 77 feet and 55 feet.</p>
+                </article>
+                <article>
+                
+                <h2>namunukula</h2>
+                
+                <p>this mountain range is located on the eastern slope of the central highlands.the height of this mountain range is 6677 feet(2011.7m) 
+                and namunukula mountain is the highest point of this mountain range.it is also known asto be the 12<sup>th</sup> tallest mountain in sri lanka.
+                the nine peaks that adorn the top of the mountain range give it it's unique name.</p>
+                </article>
+                <article>
+                <h2>alagalla</h2>
+                
+                <p>alagalla range located on the provincial boundary of central and sabaragamuwa,is an important tourist destination for hiking and camping.
+                the height of this mountain is about 1140 m.climbing the part that is near to the top of the mountain,is a very difficult to task.
+                the daytime is a bit dry,but the night is as unbearable as cold.</p>
+                </article>
+                <article>
+                <h2>seven virgins mountain</h2>
+                
+                <p>if you love mountaineering,this mountain is another beautiful place to visit for that.this mountain is located in maskeliya village in sri lanka.
+                the mountain range consist of seven peaks.in addition to,the luxapana falls,sri lanka's eighth highest waterfall,in the background of seven virgins mountain
+                range is like a treat to the eye.</p>
+                </article>
+                <article>
+                <h2>danigala</h2>
+                
+                <p>danigala rock is located in polonnaruwa district.mount danigala,which spread on the maduru oya valley,has a history dating back to the 3<sup>rd</sup> century BC.	
+                this rock is also known as the alien mountain as it is considered as an event of aliens coming.and also a mysterious topography can be seen here
+                ,but how this place came to be is still an unsolved mystery.</p>
+                </article>
+                <article>
+                <h2>wangedigala</h2>
+                
+                <p>wangedigala and wangedikanda are located in the gommoliya mountain range,which is the 13<sup>th</sup> highest mountain range in sri lanka.
+                wangedigala is located inside the badulla-colombo main road.and also during the wangedigala hiking,you are able to see samanala lake,
+                horton plains and bambarakanda waterfall.</p>
+                </article>
+                <article>
+                
+                <h2>yakdessagala</h2>
+                
+                <p>yakdessagala,also known as kuvenigala,is a mountain which is situated close to the kurunegala town.the name "yakdessagala" is formed 
+                from its meaning which is "the rock from which the yakshawoman cursed".this hike should only be attempted with those who have experience 
+                in hiking along with the required strength and stamina.</p>
+                </article>
+                <article>
+                
+                <h2>yahangala</h2>
+                
+                <p>this rock is named as yahangala as it is believed that the body of king maha rawana was buried in this rock after his death.
+                geographically this rock can be seen on three sides from a distance of miles.yahangala is a popular mountaineering destination and it is a 
+                forbidden reserve event for tourists in terms of legal status.but after proper investigation and obtaining the necessary legal clearance,
+                it is wise to do so.and also yahangala is also known as a frequent lightning strikes.</p>
+                </article>
+                <article>
+                
+                <h2>batalegala</h2>
+                
+                <p>batalegala(bible rock) is a mountain located in the hathgampola area in kegalle district of central sri lanka.it is called "bible rock" because
+                its surface is similar to a book.the height of this rock is about 2200 feat.sigiriya resembles the most famous fortress because of its remarkable
+                flat surface on the top.you can see it when traveling by train and bus from colombo to kandy.mount batalegala is widely used for climbing 
+                and the view is spectacular at the top of the hill.the hill is about 21 km away from kegalle and 14 km from mawanella.</p>
+                </article>
+                <article>
+                
+                <h2>knuckles</h2>
+                
+                <p>sri lanka's central mountains have recently been included as one of unesco's world heritage sites,and the craggy,biodiverse knuckles range forms 
+                a key part of that recognition.this massif is home to pockets of rare montane and cloud forest,and offers fine hiking and birdwatchng possibilities.</p>
+                </article>
+                <article>
+                
+                <h2>kirigalpoththa</h2>
+                
+                <p>kirigalpoththa is the 2<sup>nd</sup> highest mountain of sri lanka after pidurutalagala.with a peak elevation of 2388 meters above sea level,
+                kirigalpoththa is the highest point in the horton plains national park and also the highest peak accessible to the public.this trail will take 
+                around 5 1/2 hours of trekking,hiking & mountaineering challenges.</p>
+                </article>
+                <article>
+                
+                <h2>lakegala</h2>
+                
+                <p>this amazing location is situated in the border of the kandy and mathale district.the height of the location is 1494 m above the sea level.
+                lakegala is famous among the hikers as the most difficult hike in srilanka.this climbing season is from march to april and august to september.
+                and also this mountain is called as 'ilakkagala','lanka pabbatha','lankagiri' and 'samudragiri'.it is very difficult to climb the mountain
+                during rainy and windy seasons.</p>
+                </article>
+                <article>
+                
+                <h2>ella rock</h2>
+                
+                <p>ella rock is one of the place which is obviously a place to visit,if you love living green.in addition to,ella rock is called as little adams peak.
+                ella rock is located in badulla district.these magnificent mountain views will refresh your mind.during climbing ella rock,you can see rawana falls at down.
+                it's bit tiring to do the hiking.but it is definitely worth it.</p>
+                </article>
