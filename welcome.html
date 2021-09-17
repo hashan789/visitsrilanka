@@ -7,12 +7,44 @@
     <title>visitsrilanka.contact us</title>
     <link rel="stylesheet" href="phpcolom.css">
     <link rel="stylesheet" href="hash1.css">
+    <link rel="stylesheet" href="colom.css">
     <script src="https://kit.fontawesome.com/b2e1bca07e.js" crossorigin="anonymous"></script>
     <script src="create.js" type="text/javascript"></script>
     <style>
       .temp1 p{
         margin-top:30px;
         margin-bottom:30px;
+      }
+      .col-6,.col-7{
+        height:fit-content;
+      }
+      @media only screen and (max-width:768px) and (min-width:500px){
+        .centerimg{bottom:44%;}
+    .headimg{
+        width:175px;
+        height:125px;
+    }
+      }
+      @media only screen and (max-width:500px){
+        .centerimg{bottom:42%;}
+    .headimg{
+        width:40%;
+        height:30%;
+    }
+      }
+      @media only screen and (min-width:768px) and (max-width:1200px){
+        .centerimg{bottom:35%;}
+    .headimg{
+        width:22%;
+        height:12%;
+    }
+      }
+      @media only screen and (min-width:1200px){
+        .centerimg{bottom:15%;}
+    .headimg{
+        width:200px;
+        height:150px;
+    } 
       }
     </style>
 </head>
@@ -60,31 +92,16 @@
         <div class="phpcol-3" style="font-family:'Garamond';font-size:30px;">
             <div class="template1">
                 <div class="temp1">
-                    <p>visitsrilanka is an independent media site championing outdoor lifestyle,environmental stewardship and regenerative living.
-                        through celebrating the stories of those inspired by nature,we encourage people to connect with the natural world
-                        in meaningful ways so they may become active stewards of our planet.</p>
-                        
-                       <h2>the story</h2>
-                        
-                        <p>on a mission to build culture and community around environmental stewardship and regenerative living through
-                        championing outdoor lifestyle and nature connection.
-                        we believe that if we can foster a meaningful relationship with nature then we may be best equipped and most 
-                        motivated to offer stewardship to our planet,especially now,at a time when it so desperately needs it.</p>
-                        
-                        <h2 style="margin-bottom:30px;">team</h2>
-                        
-                        <h4>hashan malinda</h4>
-                        <h5>writter</h5>
-                        
-                        <h2 style="margin-top:30px;">projects</h2>
-                        
-                        <p>in addition to producing visitsrilanka,our team works on creating content for like-minded brands,so if you share
-                        our values and love the stories we create and have a project that you may like to work on with us,plese get in touch
-                        at <a href="username23@gmail.com">username23@gmail.com</a>.</p>
-                        
-                        <h2>partnerships</h2>
-                        
-                        <p>if you are interested in partnering with us, we'd love to hear from you.please email <a href="username23@gmail.com">username23@gmail.com</a> .</p>      
+                    <div class="boxcard phpcol-3" style="margin-bottom:30px;">
+                         <div class="col-7"><img src="images/20161129144836.jpg" class="logimage"></div>
+                         <div class="col-6">
+                          <h1>Thank <span id="use" style="color:black;"> for leaving a comment</span></h1>
+                          <p style="word-wrap: break-word;width:fit-content;">welcome to our visitsrilanka blog page.visitsrilanka is a srilankan wildlife blogger championing outdoor lifestyle, 
+                            environmental stewardship and regenerative living. We encourage people to connect with the 
+                            natural world in meaningful ways so they may become active stewards of our planet.</p>
+                          <button class="back"><a href="index.php">Back to home</a></button>
+                      </div>
+                    </div>      
                 </div>
               </div>
         </div>

@@ -1,0 +1,51 @@
+
+<p>Every child, young and adult in the world is accustomed to visiting zoos for their enjoyment and happiness. 
+In some zoos around the world, animals are kept in cages not only for exhibit but also for the protection of 
+as well as for breeding purposes. The majority of these animals are considered as endangered animals according
+to the Red Data Book. In that sense, the establishment of zoos is a great help to the future survival of some 
+animals, but zoologists have even accepted that it may be a matter of great concern that this is a major 
+to animals in terms of cruelty and persecution. In my opinion, animals are not an exhibit in zoos but a unique 
+creation of the nature. In some cases, zoos can also be seen as centre of pioneering the survival of animal 
+communities. But in comparison, there are very few such zoos in the world. Although such zoos have been praised 
+by some zoologists, that praise are now relatively low level in the world. It is a matter of inquiry as to the 
+advantages and disadvantages of keeping animals in the cages of the zoos for the future survival of the species.</p>
+
+<div class="col-1"><img src="images/unnamed.jpg" class="logimage"></div>
+
+<h2>What are the disadvantages to animals?</h2><br>
+<ul>
+   <li>Nowadays, people are less interested in visiting zoos, but which can be taken as a positive factor. 
+    This is because of the awareness gained by people on social media about the despicable acts of cruelty in 
+    zoos and the indiscriminate killing of sick animals.</li>
+
+    <li>Imprisonment animals in zoos has deprived them of their right to live in a free environment, 
+    which in turn has had a profound effect on their lifestyle. Such animals may be more prone to mental
+     illness due to physical and mental deprivation and stress.</li>
+
+
+  <li>Because of Spending some animals alone in prisons ,there exist a more probability of having stress.
+   As a result, these animals are more susceptible to social ills. Today, such incidents are common in some
+    zoos around the world. in addition to that,They lose the ability to satisfy their sexual needs.</li>
+
+  <li>Animals in some zoos may also suffer from eye diseases due to inadequate sun exposure. And also,
+   it is more susceptible to physical ailments due to their monotonous diet, irregular feeding habits, 
+   and inadequate feeding.</li>
+</ul>
+<h2>What are the benefits to animals?</h2><br>
+ <ul>
+   <li>But some zoos are a big help to some animals in their future survival. So for this, endangered 
+   animals are special. Factors such as declining population density and declining breeding progeny have
+    led to further improvements. Endangered pandas living in China and the cola bear in Australia occupy
+     a special place. Zoos can be described as a pioneer in advancing their species by studying their way of life.</li>
+
+   <li>Animals have to face to various diseases in their lifestyle. Necessary treatment should be found 
+   for such diseases. Zoos do a great service for that. Zoos are also required to provide special treatment
+    for each species. In addition, zoos are of great help in studying previously unrecognized diseases in 
+    animals. It can sometimes be a great service to a particular animal community. And this will also
+     help to avoid severe impacts on the lives of the animal community.</li>
+
+<div class="col-4"><img src="images/IMG_5257-600x449.jpg" class="logimage"></div>
+<div class="col-8" style="margin-left:5%;"><p>In this case, keeping animals in cages in zoos can be considered as a violation of the rights of the 
+animal community. Humans as well as animals should have the right to live freely, and it is shown that 
+many zoos have taken away that right. But it is unforgettable to note that some zoos play a vital role
+ in the survival of many species.</p></div>

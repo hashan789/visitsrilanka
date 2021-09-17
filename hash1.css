@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Luckiest+Guy&family=Bree+Serif&family=Poppins:wght@200;300&display=swap');
+
 .bgcolor{
    background-color:black;
    opacity:0.6;
@@ -13,9 +15,12 @@
    object-fit:cover;
    width:100%;
    height:800px;
-  /* z-index:0;*/
-   position: absolute;
-   image-rendering:pixelated;
+   position:absolute;
+}
+
+.logimage{
+   background-size:cover;
+   width:100%;
 }
 
 .side{
@@ -66,7 +71,6 @@
    }  
       
    form.example input{
-      width:450px;
       height:50px;
       border-radius:25px;
       font-weight:bold;
@@ -134,9 +138,9 @@
    padding-right: 30px;
       }
 
-   .main h2{
+   /*.main h2{
       padding-left:20px;
-      }  
+      }*/
       
       .position1{
          background-color:inherit;
@@ -147,26 +151,24 @@
          padding-left:50px;
          position:absolute;
          z-index:1;
-         width:40%;
          height:100%;
+         width:75%;
       }
 
   form.example1 input,textarea{
       border:0px;
       padding-left:10px;
       height:50px;
-      width:300px;
-      margin-left: 30px;
-      background-color: inherit;
-      font-family: Georgia, 'Times New Roman', Times, serif;
+      width:100%;
+      background-color:white;
+      font-family: 'Poppins', sans-serif;
       }
    
    form.example1 input,textarea::placeholder{
-       font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
-       font-size:20px;
-       padding-left:30px;
+      font-family: 'Poppins', sans-serif;
+       font-size:15px;
+      /* padding-left:30px;*/
        padding-bottom: 10px;
-       border:0px;
        color:black;
        opacity:1;
         }
@@ -174,24 +176,30 @@
    form.example1 input,textarea{ 
         border-bottom:1px solid black;
    }
+
+   form.example1 textarea{
+      resize: inherit;
+      outline:none;
+   }
    
    form.example1 button{
-      font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+      font-family: 'Poppins', sans-serif;
       font-weight:bold;
-      color:black;
-      background-color:inherit;
+      color:white;
+      background-color:black;
       border:0px;
       border-radius:25px;
       font-size:20px;
+      /*display:flex;
+      justify-content:center;
+      align-items:center;*/
       height:50px;
-      float:right;
-      margin-right: 20px;
-      width: 100px;
+      width:100%;
        }
    
    form.example1 button:hover{
-      color:white;
-      background-color:black;
+      color:black;
+      background-color:white;
       border:0px;
       }
 
@@ -201,12 +209,11 @@
 
    .fullcolor{
       background-image: url(images/Enjoy.png);
-      background-size: cover;
+      object-fit: cover;
      /* filter:blur(5px);*/
       background-repeat: no-repeat;
       position:absolute;
       z-index:0;
-      width:74%;
       height:95%;
       margin-bottom:30px;
    } 
@@ -220,10 +227,6 @@
 
   .border{
     border:0.5px solid grey;
-   }
-
-   form.example input:focus{ 
-      width:600px;
    }
 
    .img1{
@@ -310,10 +313,10 @@
 fieldset{
    text-align:left;
    padding-left:20px;
-   width:450px;
    float:left;
    left:30px;
    box-shadow:black 5px 10px 10px;
+   background-color:white;
 }
 
 li{
@@ -323,15 +326,15 @@ li{
 legend{
    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    letter-spacing: 4px;
-   font-size:30px;
+  /* font-size:30px;*/
    font-weight:bold;
    padding-bottom:70px;
    color:white;
 }
 
-p{
+/*p{
    line-height:40px;
-}
+}*/
 
 p::first-letter{
    text-transform: capitalize;
@@ -352,16 +355,15 @@ legend,h2::first-letter{
 
 h2{
    font-weight: bold;
-   font-size: 40px;
 }
 
 article{
    padding-bottom:30px;
 }
 
-.main h2{
+/*.main h2{
    padding-left:20px;
-}
+}*/
 
 .sociallink{
    float:right;
@@ -409,8 +411,8 @@ article{
    background-repeat: no-repeat;
    position:absolute;
    z-index:0;
-   width:74%;
-   height:95%;
+  /* width:74%;*/
+  /* height:95%;*/
    margin-left:25px;
    margin-bottom:30px;
 }
@@ -456,12 +458,13 @@ img[class="profile"]{
 }
 
 blockquote{
-   font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-family: 'Luckiest Guy', cursive;
    font-style: oblique;
+   font-weight:bold;
 }
 
 .temp1 li{
-   display:inline-flex;
+   display:inline-block;
    width:40%;
    padding-left:50px;
 }
@@ -470,7 +473,7 @@ blockquote{
    background-color: black;
    color:white;
    padding-top:50px;
-   height:600px;
+  /* height:700px;*/
 }
 
 .list a:hover,.list a:active,.list a:link,.list a:visited{
@@ -494,9 +497,10 @@ body{
 }
 
 p,q{
-   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-family: 'Itim', cursive;
    font-size:20px;
    opacity:1;
+   /*line-height:20px;*/
   }  
 
 .bgimage1{
@@ -533,3 +537,49 @@ img[class="profile"]{
    font-weight: bold;
 }
 
+input,button{
+   outline:0px;
+}
+
+
+li{
+   font-family: 'Bree Serif', serif;
+}
+
+.back{
+   width:200px;
+   height:50px;
+   font-family:'Bree Serif', serif;
+   font-size:20px;
+   border-radius:10px;
+   color:whitesmoke;
+   background-color:black;
+}
+
+.back a{
+   text-decoration:none;
+   color:white;
+}
+
+.fiximage{
+   background-position:center;
+   border:1px soild black;
+   background-attachment:fixed;
+   background-image: url(images/9dc45e8efc7ef0ff8051c244e808bb1a.jpg);
+}
+
+.innerimage{
+   padding-top:100px;
+   padding-bottom:100px;
+}
+
+.first{
+   width:75%;
+   height:95%;
+   position:absolute;
+   z-index:-1;
+   opacity:0.2;
+   left:50%;
+   margin-top:15%;
+   transform: translate(-50%,-50%);
+}

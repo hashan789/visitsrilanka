@@ -8,10 +8,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
     if(isset($_POST["name"]) && isset($_POST["email"]) && isset($_POST["textmsg"])) {
 
-$servername = "localhost";
-$username = "root";
-$password = '';
-$dbName = "emailform";
+        $servername = "localhost";
+        $username = "root";
+        $password = '';
+        $dbName = "emailform";
 
 $con = mysqli_connect($servername,$username,$password,$dbName);
 if($con){
@@ -20,7 +20,7 @@ $query = mysqli_query($con,$sql_insert_record);
 }
 $con->close();
     } 
-                   
+                    
 }
 
 ?>

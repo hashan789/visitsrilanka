@@ -13,6 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="hash1.css" type = "text/css">
     <link rel="stylesheet" href="phpcolom.css" type = "text/css">
+    <link rel="stylesheet" href="colom.css" type = "text/css">
     <title>visitsrilanka.homepage</title>
     <style>
       a:hover,a:active{
@@ -27,28 +28,53 @@
 
       .row1{
         display:inline-block;
-        width:40%;
-        margin:50px;
+       /* width:40%;*/
+       /* margin:50px;*/
       }
 
-      .imgflex{
+      /*.imgflex{
         width:400px;
         height:400px;
         
+      }*/
+      @media only screen and (max-width:768px) and (min-width:500px){
+        .centerimg{bottom:44%;}
+    .headimg{
+        width:175px;
+        height:125px;
+    }
+      }
+      @media only screen and (max-width:500px){
+        .centerimg{bottom:42%;}
+    .headimg{
+        width:40%;
+        height:30%;
+    }
+      }
+      @media only screen and (min-width:768px) and (max-width:1200px){
+        .centerimg{bottom:35%;}
+    .headimg{
+        width:22%;
+        height:12%;
+    }
+      }
+      @media only screen and (min-width:1200px){
+        .centerimg{bottom:15%;}
+    .headimg{
+        width:200px;
+        height:150px;
+    } 
       }
     </style>
 </head>
-<body onload="getLocation1();">
+<body onload="loadtextsix(); getLocation1();">
     <div class="row" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:30px;">
         <div class="phpcol-1" style="height:750px;">
-            <div style="width:100%;"><img src="images/20201121_125324_0000.png" class="bgimage" ></div>
+            <div style="width:100%;"><img src="images/photo-1619974643633-12acfdcedd16.jfif" class="bgimage" ></div>
             <div class="bgcolor"></div>
-            <div class="box">
-      <img src="images/Village life (2).png" class="headimg">
-           </div>
     <div class="box1">
-      <blockquote class="fonts"><pre style=" font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Hello! 
-    You are welcome!</pre>
+      <blockquote class="fonts">Hello! 
+    You are welcome!
     </blockquote>
     </div>
         </div>
@@ -87,6 +113,24 @@
                 </div>
         </div>
         <div class="phpcol-3">
+          <h2 style="padding:5%;padding-bottom:0px;">Nature of srilanka is ....</h2>
+          <img src="images/sale.jpg" class="first">
+          <p id="loadtext"></p>
+        </div>
+        <div class="phpcol-3">
+        <h3 style="margin:5%;text-align:left;">Be friendly and love to the mothernature.....</h3>
+          <div class="col-4" style="padding:5%;padding-top:0px;"><img src="images/Blacck-While-Thore-2-c-Nadeera-Udayanga-2-768x459.jpg" class="logimage">
+          </div> 
+          <div class="col-8" style="padding-left:5%;word-wrap:break-word;">
+            <p>Every child, young and adult in the world is accustomed to visiting zoos for their enjoyment and happiness. 
+               In some zoos around the world, animals are kept in cages not only for exhibit but also....<a href="journel.html" style="text-decoration:none;">see more</a></p>
+               <br><br>
+          </div> 
+        </div>
+        <div class="phpcol-3 fiximage">
+            <div class="innerimage"></div>
+        </div>
+        <div class="phpcol-3">
         <div class="main">
                 <div class="new">
                   <h1 style="text-align:center;">featured articles</h1>
@@ -101,10 +145,10 @@
     else{
     if(isset($_POST['submit-name'])) { */ 
         
-        define('DB_SERVER', 'localhost');
-        define('DB_SEARCH', 'root');
-        define('DB_PASSWORD','');
-        define('DB_DATABASE', 'searchresults');
+      define('DB_SERVER', 'localhost');
+      define('DB_SEARCH', 'root');
+      define('DB_PASSWORD','');
+      define('DB_DATABASE', 'searchresults');
         $db = mysqli_connect(DB_SERVER,DB_SEARCH,DB_PASSWORD,DB_DATABASE);
         
       /*  $uName = mysqli_real_escape_string($db,$_POST["search1"]);*/
@@ -146,6 +190,23 @@
 ?>
                 </div>  
             </div>
+        </div>
+        <div class="phpcol-3">
+        <div class="col-4">
+            <h2 style="text-align: center;">GET IN TOUCH TODAY TO START YOUR JOURNEY</h2>
+            <br>
+            <p style="text-align: center;">TAKE THE FIRST STEP TOWARDS YOUR DREAM JOURNEY AND CONTACT US TODAY.</p>
+            <br><br>
+            </div>
+            <form action="welcome.html" method="POST" enctype="multipart/form-data" class="example1" onsubmit="checkcookie()" >
+                  <div class="col-8">
+                  <input type="email" name="email" placeholder="E-mail" cols="10">
+                  <br><br>
+                  <div class="col-8">
+                  <button type="submit" value="SUBMIT" name="submit_form" style="margin-bottom:30px;" onclick="submitform()">Sign up</button><br><br>
+                </div>
+                </div>
+                 </form>
         </div>
         <div class="phpcol-4 color">
           <div class="center">

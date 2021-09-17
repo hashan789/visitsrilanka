@@ -28,15 +28,15 @@
 
       .row1{
         display:inline-block;
-        width:40%;
-        margin:50px;
+        /*width:40%;*/
+       /* margin:50px;*/
       }
 
-      .imgflex{
+    /*.imgflex{
         width:400px;
         height:400px;
         
-      }
+      }*/
     </style>
 </head>
 <body onload="getLocation1();">
@@ -95,10 +95,10 @@
     else{
     if(isset($_POST['submit-name'])) { */ 
         
-        define('DB_SERVER', 'localhost');
-        define('DB_SEARCH', 'root');
-        define('DB_PASSWORD','');
-        define('DB_DATABASE', 'searchresults');
+      define('DB_SERVER', 'localhost');
+      define('DB_SEARCH', 'root');
+      define('DB_PASSWORD','');
+      define('DB_DATABASE', 'searchresults');
         $db = mysqli_connect(DB_SERVER,DB_SEARCH,DB_PASSWORD,DB_DATABASE);
         
       /*  $uName = mysqli_real_escape_string($db,$_POST["search1"]);*/

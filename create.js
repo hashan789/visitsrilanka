@@ -170,6 +170,40 @@ function loadtextfour(){
   xmlhttp.send();
 }
 
+function loadtextfive(){
+  var xmlhttp = new XMLHttpRequest();
+
+  xmlhttp.onreadystatechange = function(){
+     if(this.readyState == 4 && this.status == 200){
+      document.getElementById("loadtext").innerHTML = this.responseText;
+      document.getElementById("loadtext").style.display = "block";
+     }
+     else{
+       errormsg1(this);
+     }
+  };
+
+  xmlhttp.open("GET","documents/journel.txt",true);
+  xmlhttp.send();
+}
+
+function loadtextsix(){
+  var xmlhttp = new XMLHttpRequest();
+
+  xmlhttp.onreadystatechange = function(){
+     if(this.readyState == 4 && this.status == 200){
+      document.getElementById("loadtext").innerHTML = this.responseText;
+      document.getElementById("loadtext").style.display = "block";
+     }
+     else{
+       errormsg1(this);
+     }
+  };
+
+  xmlhttp.open("GET","documents/nature.txt",true);
+  xmlhttp.send();
+}
+
 /*async function mydisplay(){
 let myPromise = new Promise((myResolve,reject) => {
     var text = textmsg("welcome to my page!!");
@@ -184,3 +218,13 @@ mydisplay();
 /*function openbox(){
     
 }*/
+
+function submitform(){
+  const name  = document.getElementById("name").value;
+  localStorage.setItem("textarea",name);
+}
+
+window.addEventListener("load",() =>{
+  document.getElementById("use").innerHTML = localStorage.getItem("textarea");
+//document.getElementById("user").innerHTML = localStorage.getItem("textarea");
+})
